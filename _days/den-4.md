@@ -5,7 +5,7 @@ title: "Bouřka, vlčák a rukavice v zajetí"
 from: "🇸🇰 Šamorín"
 to: "🇸🇰 Moča"
 photos:
-  - "/media/den-4.jpg"
+  - "/media/den-4.webp"
 published: true
 ---
 Čtvrtý den začal dost ztuha. Probudil jsem se úplně rozlámaný, bolela mě hlavně stehna a ztuhlou jsem měl drtivou většinu kloubů. Po pořádné snídani přišla ještě jedna premiéra celé výpravy – první ranní sraní v lese.

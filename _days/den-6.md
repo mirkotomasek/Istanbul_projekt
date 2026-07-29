@@ -5,7 +5,7 @@ title: "Pět set kilometrů, první defekt a záchrana od Zoltána"
 from: "🇭🇺 Budapešť"
 to: "🇭🇺 Kecskemét"
 photos:
-  - "/media/den-6.jpg"
+  - "/media/den-6.webp"
 published: true
 ---
 Budapešť jsme opouštěli po cyklostezkách, které nás znovu mile překvapily. Průjezd městem byl plynulý a člověk měl skoro pocit, že je tady cyklista vítaným účastníkem provozu. Jakmile jsme ale nechali hlavní město za zády, přišla změna. Cyklostezky zmizely a zbytek dne se odehrával hlavně na silnici mezi auty. Nezbývalo než jet opatrně, hlídat provoz a snažit se nenechat se zlomit úmorným maďarským vedrem.

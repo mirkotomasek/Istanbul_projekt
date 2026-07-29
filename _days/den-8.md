@@ -5,7 +5,7 @@ title: "Křivý ráfek, nekonečné roviny a srbská pohostinnost"
 from: "🇭🇺 Severně od Segedínu"
 to: "🇷🇸 Řeka Tisa"
 photos:
-  - "/media/den-8.jpg"
+  - "/media/den-8.webp"
 published: true
 ---
 První tropickou noc jsme nakonec zvládli lépe, než jsme čekali. Usínání sice chvíli trvalo, ale pak už jsme spali překvapivě dobře. Kolem stanu se celou noc ozývali srnci pobíhající lesem a jejich šustění občas připomnělo, že jsme zase o kus dál od domova. Budík zazvonil už v šest ráno. Nový režim byl jasný – vyjíždět co nejdřív, využít ranní chlad a polední vedra raději přečkat někde ve stínu.

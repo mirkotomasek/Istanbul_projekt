@@ -5,7 +5,7 @@ title: "Nulté zkušenosti, plné brašny a první kopec"
 from: "🇨🇿 Bystřice nad Pernštejnem"
 to: "🇨🇿 Brno (Lesná)"
 photos:
-  - "/media/den-1.jpg"
+  - "/media/den-1.webp"
 published: true
 ---
 Jednoho dne jsem dostal šílený nápad dojet na kole z Bystřice nad Pernštejnem do Istanbulu. Tak jsem sbalil kolo, naházel na něj věci na kempování, vzal přítelkyni a prakticky s nulovými zkušenostmi vyjel na tuto výpravu. Ty si teď můžeš přečíst, jak nám to jde.

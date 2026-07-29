@@ -5,7 +5,7 @@ title: "Tři země za den a první noc pod stanem"
 from: "🇨🇿 Brno"
 to: "🇸🇰 Svätý Ján"
 photos:
-  - "/media/den-2.jpg"
+  - "/media/den-2.webp"
 published: true
 ---
 Druhý den jsme vyrazili z Brna něco po osmé ráno. Nejdřív jsme se propletli městem po cyklostezkách, které nás mile překvapily – průjezd Brnem byl nakonec mnohem příjemnější, než jsme čekali.

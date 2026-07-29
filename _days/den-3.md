@@ -5,7 +5,7 @@ title: "Zapomenutá rukavice a první kilometry podél Dunaje"
 from: "🇸🇰 Svätý Ján"
 to: "🇸🇰 Šamorín"
 photos:
-  - "/media/den-3.jpg"
+  - "/media/den-3.webp"
 published: true
 ---
 Ráno jsme vyrazili krátce po osmé. Poprvé jsem neměl zdržení a Nikola na mě nemusela čekat, i když se zdálo, že už začínala být trochu nervózní. Po noci ve stanu jsem se probudil celý ztuhlý. Bolel mě zadek, zápěstí a chvíli trvalo, než jsem se rozhýbal. Nikola na tom ale byla výrazně lépe.

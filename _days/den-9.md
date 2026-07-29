@@ -5,7 +5,7 @@ title: "Hummus, burek a hrušky: co nás žene k Istanbulu"
 from: "🇷🇸 Mol"
 to: "🇷🇸 Zrenjanin"
 photos:
-  - "/media/den-9.jpg"
+  - "/media/den-9.webp"
 published: true
 ---
 „A jak vlastně na takové cestě jíte?“

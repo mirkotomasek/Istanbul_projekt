@@ -5,7 +5,7 @@ title: "Od pítka k pítku v maďarské výhni"
 from: "🇭🇺 Kecskemét"
 to: "🇭🇺 Severně od Segedínu"
 photos:
-  - "/media/den-7.jpg"
+  - "/media/den-7.webp"
 published: true
 ---
 Večerní hudba, kterou jsme při usínání slyšeli z nedalekého hřiště, nakonec opravdu patřila svatbě. Pro jistotu jsme nasadili špunty do uší a doufali, že novomanželé nebudou slavit až do rána. Kolem druhé nebo půl třetí jsem se ale probudil a zjistil, že je všude úplné ticho. Špunty mohly ven a zbytek noci už proběhl v klidu.

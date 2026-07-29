@@ -5,7 +5,7 @@ title: "Kdo maže, ten dojede až do Budapešti"
 from: "🇸🇰 Moča"
 to: "🇭🇺 Budapešť"
 photos:
-  - "/media/den-5.jpg"
+  - "/media/den-5.webp"
 published: true
 ---
 Kdo maže, ten jede. To platí skoro u všech sportů, ale přijde mi, že u dálkové cyklistiky to platí nejvíc. Nejde jen o řetěz. Stejnou péči potřebují i sedací partie. Ráno přichází vrstva vazelíny, během dne několik dalších podle potřeby a večer hygienické ubrousky se Sudocremem. Není to zrovna romantická stránka cyklistiky, ale bez ní by podobná cesta dlouho nevydržela.
