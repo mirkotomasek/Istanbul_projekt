@@ -65,6 +65,7 @@ content:
       - name: photos
         label: Fotografie
         type: image
+        description: "Fotografie se po uložení automaticky zmenší a převedou do WebP."
         options:
           multiple:
             max: 12
