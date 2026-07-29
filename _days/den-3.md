@@ -1,6 +1,9 @@
 ---
 day: 3
-title: "Svätý Ján → Šamorín"
+date: 2026-07-22
+title: "Zapomenutá rukavice a první kilometry podél Dunaje"
+from: "🇸🇰 Svätý Ján"
+to: "🇸🇰 Šamorín"
 photos:
   - "/media/den-3.jpg"
 published: true

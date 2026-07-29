@@ -1,6 +1,9 @@
 ---
 day: 1
-title: "Bystřice nad Pernštejnem → Brno (Lesná)"
+date: 2026-07-20
+title: "Nulté zkušenosti, plné brašny a první kopec"
+from: "🇨🇿 Bystřice nad Pernštejnem"
+to: "🇨🇿 Brno (Lesná)"
 photos:
   - "/media/den-1.jpg"
 published: true

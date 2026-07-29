@@ -1,6 +1,9 @@
 ---
 day: 5
-title: "Moča → Budapešť"
+date: 2026-07-24
+title: "Kdo maže, ten dojede až do Budapešti"
+from: "🇸🇰 Moča"
+to: "🇭🇺 Budapešť"
 photos:
   - "/media/den-5.jpg"
 published: true

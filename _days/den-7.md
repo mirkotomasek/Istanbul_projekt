@@ -1,6 +1,9 @@
 ---
 day: 7
-title: "Kecskemét → severně od Segedínu"
+date: 2026-07-26
+title: "Od pítka k pítku v maďarské výhni"
+from: "🇭🇺 Kecskemét"
+to: "🇭🇺 Severně od Segedínu"
 photos:
   - "/media/den-7.jpg"
 published: true

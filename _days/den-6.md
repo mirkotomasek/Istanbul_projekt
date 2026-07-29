@@ -1,6 +1,9 @@
 ---
 day: 6
-title: "Budapešť → Kecskemét"
+date: 2026-07-25
+title: "Pět set kilometrů, první defekt a záchrana od Zoltána"
+from: "🇭🇺 Budapešť"
+to: "🇭🇺 Kecskemét"
 photos:
   - "/media/den-6.jpg"
 published: true

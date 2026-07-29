@@ -1,6 +1,9 @@
 ---
 day: 9
-title: "Od Molu směrem k Zrenjaninu: o jídle, lidech a nekonečných rovinách"
+date: 2026-07-28
+title: "Hummus, burek a hrušky: co nás žene k Istanbulu"
+from: "🇷🇸 Mol"
+to: "🇷🇸 Zrenjanin"
 photos:
   - "/media/den-9.jpg"
 published: true

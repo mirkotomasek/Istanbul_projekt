@@ -1,6 +1,9 @@
 ---
 day: 4
-title: "Šamorín → Moča"
+date: 2026-07-23
+title: "Bouřka, vlčák a rukavice v zajetí"
+from: "🇸🇰 Šamorín"
+to: "🇸🇰 Moča"
 photos:
   - "/media/den-4.jpg"
 published: true

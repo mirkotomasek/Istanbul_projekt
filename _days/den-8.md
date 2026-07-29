@@ -1,6 +1,9 @@
 ---
 day: 8
-title: "Severně od Segedínu → řeka Tisa, Srbsko"
+date: 2026-07-27
+title: "Křivý ráfek, nekonečné roviny a srbská pohostinnost"
+from: "🇭🇺 Severně od Segedínu"
+to: "🇷🇸 Řeka Tisa"
 photos:
   - "/media/den-8.jpg"
 published: true

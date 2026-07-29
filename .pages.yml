@@ -10,38 +10,57 @@ content:
     type: collection
     path: _days
     format: yaml-frontmatter
+
     filename:
       template: "den-{fields.day}.md"
       field: false
+
     view:
-      fields: [day, title, date, published]
+      fields: [day, date, title, from, to, published]
       primary: title
       sort: [day, date, title]
+      search: [title, from, to]
       default:
         sort: day
         order: desc
+
     operations:
       create: true
       rename: false
       delete: true
+
     fields:
       - name: day
         label: Číslo dne
         type: number
         required: true
+        options:
+          min: 1
 
       - name: date
         label: Datum
         type: date
-        default: ""
+        required: true
         options:
           format: yyyy-MM-dd
 
       - name: title
-        label: Trasa nebo nadpis
+        label: Nadpis dne
         type: string
         required: true
-        description: "Například Budapešť → Dunaföldvár"
+        description: "Krátký poutavý nadpis bez trasy, například Bouřka, vlčák a rukavice v zajetí"
+
+      - name: from
+        label: Odkud
+        type: string
+        required: true
+        description: "Jen výchozí místo včetně vlajky země, například 🇷🇸 Mol"
+
+      - name: to
+        label: Kam
+        type: string
+        required: true
+        description: "Jen cílové místo včetně vlajky země, například 🇷🇸 Zrenjanin"
 
       - name: photos
         label: Fotografie
@@ -69,8 +88,10 @@ content:
 
 settings:
   hide: true
+
   content:
     merge: true
+
   commit:
     identity: user
     templates:

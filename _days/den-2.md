@@ -1,6 +1,9 @@
 ---
 day: 2
-title: "Brno → Svätý Ján (Slovensko)"
+date: 2026-07-21
+title: "Tři země za den a první noc pod stanem"
+from: "🇨🇿 Brno"
+to: "🇸🇰 Svätý Ján"
 photos:
   - "/media/den-2.jpg"
 published: true
