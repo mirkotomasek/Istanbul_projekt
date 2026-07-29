@@ -3,7 +3,6 @@ name: Optimize images and deploy Pages
 on:
   push:
     branches:
-      - pages-cms-preview
       - main
 
   workflow_dispatch:
